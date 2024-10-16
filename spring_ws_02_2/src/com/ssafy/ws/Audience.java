@@ -2,7 +2,7 @@ package com.ssafy.ws;
 
 import org.springframework.stereotype.Component;
 
-@Component
+//@Component
 public class Audience implements Person {
     @Override
     public void doSomething() throws CallException {
